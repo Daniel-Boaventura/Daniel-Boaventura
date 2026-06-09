@@ -7,7 +7,7 @@ Me chamo Daniel, tenho 15 anos e sou estudante do 1º ano do ensino médio na ET
 ---
 
 <p align="left">
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/Daniel-Boaventura">
     <img 
       alt="GitHub followers"
       title="Me siga no GitHub"
@@ -15,7 +15,7 @@ Me chamo Daniel, tenho 15 anos e sou estudante do 1º ano do ensino médio na ET
     />
   </a>
 
-  <a href="https://github.com/SEUUSUARIO?tab=repositories">
+  <a href="https://github.com/Daniel-Boaventura?tab=repositories">
     <img 
       alt="Repositorios"
       title="Repositórios"
