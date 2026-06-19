@@ -11,7 +11,7 @@ Me chamo Daniel, tenho 15 anos e sou estudante do 1º ano do ensino médio na ET
     <img 
       alt="GitHub followers"
       title="Me siga no GitHub"
-      src="https://img.shields.io/badge/Seguidores-0-blue?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Seguidores-1-blue?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 
